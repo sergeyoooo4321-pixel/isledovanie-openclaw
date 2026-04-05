@@ -1,13 +1,14 @@
-# Reddit Search - openclaw use case
+# Reddit Search — openclaw use case
 **URL:** https://www.reddit.com/search/?q=openclaw+use+case&sort=top&t=all  
-**Дата сбора:** 2026-04-05 20:03  
-**Статус:** OK  
+**Дата сбора:** 2026-04-05 21:05  
+**Статус:** ПУСТО / НЕ СУЩЕСТВУЕТ  
 
 ---
 
-You've been blocked by network security.
-To continue, log in to your Reddit account or use your developer token
+ИСТОЧНИК 7: Reddit Search — "openclaw use case"
 
-If you think you've been blocked by mistake, file a ticket below and we'll look into it.
-Log in
-File a ticket
+URL: https://www.reddit.com/search/?q=openclaw+use+case&sort=top&t=all
+
+Статус: ПУСТО (нерелевантные результаты)
+
+Примечание: Поисковая выдача содержит в основном посты о net neutrality, animal stories и прочий несвязанный контент. OpenClaw-специфичных постов по этому запросу нет. Найдены только ссылки на сабреддиты r/OpenClawUseCases и r/openclaw.
