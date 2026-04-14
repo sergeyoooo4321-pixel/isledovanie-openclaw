@@ -214,5 +214,133 @@
     "status": "OK",
     "date": "2026-04-05 19:58",
     "size": 10840
+  },
+  {
+    "file": "30_kanerika_15_usecases.md",
+    "url": "https://kanerika.com/blogs/openclaw-usecases/",
+    "title": "Kanerika — 15 OpenClaw Use Cases: What Actually Works in 2026",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "31_tldl_25_real_examples.md",
+    "url": "https://www.tldl.io/blog/openclaw-use-cases-2026",
+    "title": "TLDL — OpenClaw Use Cases 2026: 25+ Real Examples (Updated February)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "32_hostinger_25_usecases.md",
+    "url": "https://www.hostinger.com/tutorials/openclaw-use-cases",
+    "title": "Hostinger — OpenClaw Use Cases: 25 Ways to Automate Work and Life",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "33_o_mega_top50_rankings.md",
+    "url": "https://o-mega.ai/articles/top-50-openclaw-use-cases-2026-rankings",
+    "title": "O-Mega AI — Top 50 OpenClaw Use Cases 2026 (Ranked)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "34_latenode_popular_usecases.md",
+    "url": "https://latenode.com/blog/ai/ai-agents/popular-openclaw-use-cases",
+    "title": "Latenode — Popular OpenClaw Use Cases",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "35_medium_dr_shea_johnson_247_assistant.md",
+    "url": "https://medium.com/illumination/i-built-a-24-7-ai-assistant-using-the-openclaw-mac-mini-setup-5a585fa1c037",
+    "title": "Medium (Illumination) — I Built a 24/7 AI Assistant Using the OpenClaw & Mac Mini Setup (Dr. Shea Johnson)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "36_medium_juan_olamendy_bot_v2.md",
+    "url": "https://medium.com/@juanc.olamendy/how-i-built-my-own-openclaw-bot-v2-skills-context-files-and-a-smarter-brain-084acbfa9630",
+    "title": "Medium — How I Built My Own OpenClaw Bot V2: Skills, Context Files, and a Smarter Brain (Juan C. Olamendy)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "37_lennysnewsletter_complete_guide.md",
+    "url": "https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building",
+    "title": "Lenny's Newsletter — OpenClaw: The Complete Guide to Building, Training, and Living With Your Personal AI Agent",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "38_simplified_top10.md",
+    "url": "https://simplified.com/blog/automation/top-openclaw-use-cases",
+    "title": "Simplified — Top 10 OpenClaw Use Cases in 2026: What People Actually Do With It",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "39_buildtolaunch_solo_founder.md",
+    "url": "https://buildtolaunch.substack.com/p/openclaw-ai-agent-one-person-business",
+    "title": "BuildToLaunch Substack — OpenClaw for One-Person Businesses: Real Story (Jenny, solo founder)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "40_contabo_business_usecases.md",
+    "url": "https://contabo.com/blog/openclaw-use-cases-for-business-in-2026/",
+    "title": "Contabo Blog — OpenClaw Use Cases for Business in 2026",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "41_github_awesome_openclaw_agents.md",
+    "url": "https://github.com/mergisi/awesome-openclaw-agents",
+    "title": "GitHub — mergisi/awesome-openclaw-agents: 199 Production-Ready Agent Templates",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "42_wikipedia_openclaw.md",
+    "url": "https://en.wikipedia.org/wiki/OpenClaw",
+    "title": "Wikipedia — OpenClaw (история, создатель, техническое, безопасность)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "43_techradar_wild_projects.md",
+    "url": "https://www.techradar.com/pro/wild-things-people-are-building-with-openclaw",
+    "title": "TechRadar — 10 Wild Things People Are Building with OpenClaw",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "44_alexmcfarland_cowork_setup.md",
+    "url": "https://alexmcfarland.substack.com/p/the-perfect-openclaw-setup-how-i",
+    "title": "Alex McFarland Substack — The Perfect OpenClaw Setup: How I Co-Work With My AI Agent 24/7",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null
+  },
+  {
+    "file": "45_reddit_urls_to_check_manually.md",
+    "url": null,
+    "title": "Reddit и другие заблокированные URL — список для ручной проверки",
+    "status": "MANUAL_REQUIRED",
+    "date": "2026-04-14",
+    "size": null
   }
 ]
