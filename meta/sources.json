@@ -369,5 +369,14 @@
     "date": "2026-04-14",
     "size": 107821,
     "note": "Ручная выгрузка: search results + openclawdesktop.com income stories, Felix Craft $14,718"
+  },
+  {
+    "file": "49_kwork_patterns_freelance.md",
+    "url": "https://kwork.ru",
+    "title": "Kwork/фриланс — ТОП-20 паттернов объявлений по OpenClaw (ручной анализ)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": null,
+    "note": "20 паттернов с ценами 1000-25000₽, советами по позиционированию, анализом рынка. Исполнители: DevDreamer, AlexsonWebDev, iAlexeyRu, HigherCall и др."
   }
 ]
