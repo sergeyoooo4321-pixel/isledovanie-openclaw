@@ -342,5 +342,32 @@
     "status": "MANUAL_REQUIRED",
     "date": "2026-04-14",
     "size": null
+  },
+  {
+    "file": "46_reddit_r_openclaw_posts.md",
+    "url": "https://www.reddit.com/r/openclaw/",
+    "title": "Reddit r/openclaw — Посты и обсуждения (ручной сбор, р.md)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": 136221,
+    "note": "Ручная выгрузка: r/openclaw main feed + r/openclawpirates"
+  },
+  {
+    "file": "47_reddit_tips_and_setups.md",
+    "url": "https://www.reddit.com/r/openclaw/",
+    "title": "Reddit — Советы, настройки, типичные ошибки (ручной сбор, р.md)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": 56641,
+    "note": "Ручная выгрузка: r/openclaw, r/clawdbot, r/AskClaw — debug tips"
+  },
+  {
+    "file": "48_reddit_news_income_stories.md",
+    "url": "https://www.reddit.com/r/openclaw/",
+    "title": "Reddit — Новости, поиск, истории заработка (ручной сбор, р.md)",
+    "status": "OK",
+    "date": "2026-04-14",
+    "size": 107821,
+    "note": "Ручная выгрузка: search results + openclawdesktop.com income stories, Felix Craft $14,718"
   }
 ]
